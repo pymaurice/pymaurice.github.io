@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "T9ENNSLTQZ.com.showroomprive.showroompriveiphone",
+                "paths": [ "/home", "/vente/*" ]
+            }
+        ]
+    }
+}
